@@ -2,13 +2,13 @@
 MTN Data Science Research 
 
 ## Authors
-- [Shalyne Waweru](https://github.com/Shalyne-Waweru/hello-world.git)
+- [Shalyne Waweru](https://github.com/Shalyne-Waweru/Independent_Project-3.git)
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
+- `git clone https://github.com/Shalyne-Waweru/Independent_Project-3.git`
+- `cd Independent_Project-3`
 
 ## License info
 MIT License
